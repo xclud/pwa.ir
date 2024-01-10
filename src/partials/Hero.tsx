@@ -17,7 +17,7 @@ const Hero = () => (
         <>
           I am an experienced developer with 20+ years of experience, mainly in
           .NET, Flutter, TypeScript and Rust. Exploring AI and data science
-          techniques for integrating AI and machine learning into various
+          techniques for integrating AI and Machine Learning into various
           domains and platforms.
         </>
       }
