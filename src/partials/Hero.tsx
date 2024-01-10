@@ -15,33 +15,16 @@ const Hero = () => (
       }
       description={
         <>
-          <p>
-            I am a <em>software engineer</em> and <em>developer advocate</em>{' '}
-            with 20+ years of experience. I am born in 1986 and write code since
-            age 13. I used to be a <em>3d/graphics/game developer</em> for 15
-            years and i have been doing <em>OpenGL</em> and <em>DirectX</em>.
-          </p>
-          <p>&nbsp;</p>
-          <p>
-            I have tons of experience with back-end development.
-            Crypto/Crytography, gRPC, Kubernetes and NoSQLs have taken a great
-            share of my stack.
-          </p>
-          <p>&nbsp;</p>
-          <p>
-            I've done projects with C/C++, .NET and Rust. Today, i mostly write
-            C# code and am diving even deeper in Rust.
-          </p>
-          <p>&nbsp;</p>
-          <p>
-            As a hobbyist, I also develop and maintain serveral packages for{' '}
-            <em>Flutter</em>. I contribute to <em>gRPC</em>,{' '}
-            <em>Protocol Buffers</em>, <em>Kubernetes</em> and <em>.NET</em>.
-            Please see my GitHub to find out more.
-          </p>
-          <p>&nbsp;</p>
-          <p>I play guitar 🎸 as a beginner.</p>
-          <p>&nbsp;</p>
+          I am an experienced developer with 20+ years of experience, mainly in
+          .NET, Flutter, TypeScript and Rust. Phasellus{' '}
+          <a className="text-cyan-400 hover:underline" href="/">
+            malesuada
+          </a>{' '}
+          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          <a className="text-cyan-400 hover:underline" href="/">
+            consectetur
+          </a>{' '}
+          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
         </>
       }
       avatar={
