@@ -16,15 +16,9 @@ const Hero = () => (
       description={
         <>
           I am an experienced developer with 20+ years of experience, mainly in
-          .NET, Flutter, TypeScript and Rust. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          .NET, Flutter, TypeScript and Rust. Exploring AI and data science
+          techniques for integrating AI and machine learning into various
+          domains and platforms.
         </>
       }
       avatar={
